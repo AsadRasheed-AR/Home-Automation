@@ -1,0 +1,58 @@
+{
+    "intents" : [
+        {
+            "tag": "light on",
+            "patterns": [
+                "on light",
+                "turn on light",
+                "please turn on light",
+                "turn the light on",
+                "switch on light",
+                "switch the light on",
+                "switch on the light"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "light of",
+            "patterns": [
+                "of light",
+                "off light",
+                "turn of light",
+                "please turn of light",
+                "turn the light of",
+                "switch of light",
+                "switch the light of",
+                "switch of the light"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "fan on",
+            "patterns": [
+                "on fan",
+                "turn on fan",
+                "please turn on fan",
+                "turn the fan on",
+                "switch on fan",
+                "switch the fan on",
+                "switch on the fan"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "fan of",
+            "patterns": [
+                "of fan",
+                "off fan",
+                "turn of fan",
+                "please turn of fan",
+                "turn the fan of",
+                "switch of fan",
+                "switch the fan of",
+                "switch of the fan"
+            ],
+            "responses": []
+        }
+    ]
+}
